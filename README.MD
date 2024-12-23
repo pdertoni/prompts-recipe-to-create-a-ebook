@@ -13,8 +13,8 @@ seguem abaixo.
 
 ## 🧠 Prompts
 
-Estão na pasta de arquivos
+arquivo no projeto
 
 ## E-book
 
-Está na parta de arquivos
+arquivo no projeto
